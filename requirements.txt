@@ -1,5 +1,3 @@
+fastbook
 voila
-fastai2>=0.0.5
-pillow was removed
-packaging
-ipywidgets==7.5.1
+
